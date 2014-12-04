@@ -7,7 +7,7 @@
         <description>Plugin that polls a Ruby Gem repository</description>
         <vendor>
             <name>Srinivas</name>
-            <url>https://github.com/srinivasupadhya/gem-poller</url>
+            <url>https://github.com/srinivasupadhya/gem-repo-poller</url>
         </vendor>
     </about>
 </go-plugin>
