@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<go-plugin id="deb" version="1">
+<go-plugin id="gem" version="1">
     <about>
         <name>Gem plugin</name>
         <version>0.1</version>
