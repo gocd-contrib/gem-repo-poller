@@ -2,8 +2,8 @@
 <go-plugin id="gem" version="1">
     <about>
         <name>Gem plugin</name>
-        <version>0.1</version>
-        <target-go-version>14.4.0</target-go-version>
+        <version>0.2</version>
+        <target-go-version>21.1.0</target-go-version>
         <description>Plugin that polls a Ruby Gem repository</description>
         <vendor>
             <name>Srinivas</name>
